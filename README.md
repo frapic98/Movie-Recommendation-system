@@ -6,3 +6,5 @@ Movie recommendation system through three techniques:
 
 Project of the Artificial Intelligence course, University of Bologna, A.Y. 2021/2022. Aurora Brega, Francesco Saverio Beccafichi, Francesco Piconi
 ![recommendation system.png](https://github.com/frapic98/Movie-Recommendation-system/blob/a95318d5c4491ce5169c3d3d30fce9d64ef4b52d/recommendation%20system.png)
+
+The dataset "The Movie Dataset" was obtained from Kaggle (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) and this is an ensemble of data collected from TMDB and GroupLens.
